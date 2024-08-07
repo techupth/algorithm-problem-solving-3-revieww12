@@ -15,4 +15,4 @@ function sortCustomerName(customers) {
 const customers = ["Somchai", "Arthit", "Suchada", "Napasorn", "Pimchanok"];
 console.log(sortCustomerName(customers));
 // ตอบคำถามตรงนี้จ้า
-// o(n^2) เพราะเกิดการ loop ซ้อนกัน 2 ชั้น
+// o(n^2) เพราะเกิดการ loop ซ้อนกัน 2 ชั้น //
